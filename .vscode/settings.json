@@ -2,6 +2,7 @@
     "files.associations": {
         "stats.h": "c",
         "alert.h": "c",
-        "cstdio": "c"
+        "cstdio": "c",
+        "cstdlib": "cpp"
     }
 }
