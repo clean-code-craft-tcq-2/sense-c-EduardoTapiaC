@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stats.h": "c",
+        "alert.h": "c",
+        "cstdio": "c"
+    }
+}
